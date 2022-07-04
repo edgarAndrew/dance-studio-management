@@ -5,9 +5,9 @@ To start the application go to:
 bin->Debug->SE_project.exe
 
 To sign in as Head Instructor
-Username - Admin
+Username - Admin,
 password - Admin
 
 To sign in as Instructor
-Username - admin
+Username - admin,
 password - admin
